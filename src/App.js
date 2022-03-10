@@ -8,7 +8,17 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>Coded by Yasmin Tercenio Open source code on GitHub</footer>
+        <footer>
+          Coded by Yasmin Tercenio
+          <br />
+          Open source code on{" "}
+          <a
+            href="https://github.com/nimsay06/react-dictionary.git"
+            target="_blank"
+          >
+            GitHub
+          </a>
+        </footer>
       </div>
     </div>
   );

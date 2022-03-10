@@ -5,11 +5,13 @@
 header {
   text-align: center;
   font-size: 40px;
-  color: blueviolet;
+  font-weight: bold;
+  color: #ed8233;
 }
 
 .App footer {
   font-size: 15px;
   text-align: center;
   color: grey;
+  display: block;
 }
