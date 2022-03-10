@@ -1,5 +1,15 @@
+.App {
+  margin: 30px auto;
+}
+
 header {
   text-align: center;
   font-size: 40px;
   color: blueviolet;
+}
+
+.App footer {
+  font-size: 15px;
+  text-align: center;
+  color: grey;
 }
