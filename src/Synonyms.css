@@ -1,0 +1,11 @@
+ul {
+  list-style: none;
+  color: rgb(75, 74, 74);
+}
+li {
+  text-transform: capitalize;
+  font-style: italic;
+}
+.SynonymsHeader {
+  text-decoration: underline;
+}

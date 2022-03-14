@@ -25,7 +25,7 @@ export default function Dictionary() {
           className="searchEngine"
           type="search"
           placeholder="Search for a word..."
-          autoFocus={false}
+          autoFocus={true}
           onChange={handleKeywordChange}
         />
       </form>
