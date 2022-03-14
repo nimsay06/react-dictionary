@@ -1,0 +1,12 @@
+.PhoneticComponent {
+  text-decoration: none;
+  color: grey;
+}
+
+.PhoneticComponent a:focus {
+  color: grey;
+}
+
+.PhoneticsText {
+  font-weight: bold;
+}
