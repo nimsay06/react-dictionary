@@ -18,7 +18,7 @@ export default function App() {
         <footer>
           Coded by Yasmin Tercenio
           <br />
-          Open source code on{" "}
+          Open source code found on{" "}
           <a
             href="https://github.com/nimsay06/react-dictionary.git"
             target="_blank"
@@ -26,6 +26,8 @@ export default function App() {
           >
             GitHub
           </a>
+          <br/>
+          Book Logo & Background Image created by Yasmin Tercenio
         </footer>
       </div>
     </div>

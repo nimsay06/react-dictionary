@@ -11,13 +11,13 @@ header {
   font-weight: bolder;
   color: #ed8233;
   font-family: "Sansita Swashed", cursive;
-  text-shadow: 5px 10px #fefefe;
+  text-shadow: 5px 10px #f7d5bc;
 }
 
 .App footer {
   font-size: 15px;
   text-align: center;
-  color: grey;
+  color: white;
   display: block;
   margin-bottom: 30px;
 }
