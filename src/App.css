@@ -1,5 +1,8 @@
-.App {
-  margin: 30px auto;
+.BooksLogo {
+  margin: auto;
+  display: block;
+  width: 200px;
+  height: 200px;
 }
 
 header {
@@ -16,4 +19,11 @@ header {
   text-align: center;
   color: grey;
   display: block;
+  margin-bottom: 30px;
+}
+
+.App {
+  padding: 10px;
+  background: url(./background70s.jpg);
+  background-size: cover;
 }

@@ -1,4 +1,18 @@
 h3 {
   font: italic;
+  font-weight: 700;
+  font-size: 20px;
   color: grey;
+  font-family: "Sansita Swashed", cursive;
+}
+
+.Definition {
+  font-size: 20px;
+  font-family: "Urbanist", sans-serif;
+}
+
+.Example {
+  font-size: 15px;
+
+  text-decoration: underline;
 }

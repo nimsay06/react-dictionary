@@ -3,9 +3,11 @@ ul {
   color: rgb(75, 74, 74);
 }
 li {
+  display: inline-block;
+  padding: 7px ;
+  margin: 5px;
   text-transform: capitalize;
   font-style: italic;
-}
-.SynonymsHeader {
-  text-decoration: underline;
+  border: 2px solid white;
+  border-radius: 20px;
 }

@@ -1,12 +1,25 @@
-.PhoneticComponent {
+.PhoneticComponent a {
+  color: grey;
+  padding: 5px;
   text-decoration: none;
-  color: grey;
+  border: 2px solid #da9f29;
+  background-color: honeydew;
+  border-radius: 15px;
+  transition: all 120ms ease-in-out;
 }
 
-.PhoneticComponent a:focus {
-  color: grey;
+.PhoneticComponent a:hover {
+  background-color: #da9f29;
+  color: white;
 }
-
+.PhoneticComponent {
+  padding: 15px;
+  font-family: "Urbanist", sans-serif;
+}
 .PhoneticsText {
+  margin-left: 10px;
+  font-size: 20px;
+  margin-top: 10px;
   font-weight: bold;
+  color: grey;
 }
