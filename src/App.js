@@ -3,7 +3,6 @@ import React from "react";
 import logo from "./Books.png";
 import Dictionary from "./Dictionary";
 
-console.log(logo);
 export default function App() {
   return (
     <div className="App">
@@ -22,11 +21,11 @@ export default function App() {
           <a
             href="https://github.com/nimsay06/react-dictionary.git"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noreferrer"
           >
             GitHub
           </a>
-          <br/>
+          <br />
           Book Logo & Background Image created by Yasmin Tercenio
         </footer>
       </div>

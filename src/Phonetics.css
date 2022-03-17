@@ -1,10 +1,10 @@
 .PhoneticComponent a {
   color: grey;
-  padding: 5px;
+  padding: 7px;
   text-decoration: none;
   border: 2px solid #da9f29;
   background-color: honeydew;
-  border-radius: 15px;
+  border-radius: 20px;
   transition: all 120ms ease-in-out;
 }
 

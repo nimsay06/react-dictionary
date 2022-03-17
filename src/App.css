@@ -8,10 +8,10 @@
 header {
   text-align: center;
   font-size: 64px;
-  font-weight: bolder;
-  color: #ed8233;
+  font-weight: bold;
+  color: #3e200f;
   font-family: "Sansita Swashed", cursive;
-  text-shadow: 5px 10px #f7d5bc;
+  text-shadow: 5px 10px #f3945b;
 }
 
 .App footer {
@@ -24,6 +24,7 @@ header {
 
 .App {
   padding: 10px;
-  background: url(./background70s.jpg);
+  background: no-repeat;
+  background-image: url(./updatedBackground.jpg);
   background-size: cover;
 }

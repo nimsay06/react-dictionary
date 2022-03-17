@@ -2,15 +2,14 @@ h3 {
   font: italic;
   font-weight: 700;
   margin: 20px;
-  font-size: 20px;
+  font-size: 30px;
   color: grey;
   font-family: "Sansita Swashed", cursive;
 }
 
 .Definition {
-  font-size: 20px;
+  font-size: 18px;
   margin: 20px;
-
   font-family: "Urbanist", sans-serif;
 }
 
